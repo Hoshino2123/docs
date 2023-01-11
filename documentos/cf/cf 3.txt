@@ -1,0 +1,16 @@
+35
+C= 50000
+M= 50 400
+I=?
+n-96dias
+
+I=M-C/CxN- 50 304
+
+42-
+taxa anual efetiva=?
+trimestre=1%
+acmulados mensalmente- 4%
+A) 4,25% /compostos diariamente
+aa/ad
+4,25%aa nominal
+4,25%/365=0,001644

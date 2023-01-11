@@ -1,0 +1,29 @@
+Exercicios juros simples - RJS
+Como está 3%, a convessão fica 0.03% porque 3/10= 0.03
+30000x0,03x5=4500
+
+
+exercício 3-
+juros=2%
+M-200,10
+12 parcelas
+200,10 x 0,02 x 12 = 48,02
+200,10 + 48,02 = 248,12 o produto
+exercício 4-
+M + J + C
+41.100,00 = 2010 +c
+41.100 - 2010 = 39090
+C=39090
+2010 = 39090 x 5 = 195450
+2010/195450= 0,010%
+0,010 é a taxa
+Exercicio 5-
+
+C x I x T
+540 de juros
+3k de motante
+3% taxa
+A taxa é convertida para 0.03
+fica : 3000 x 0,03% = 90
+Juros = 540
+540/90 = 6 meses

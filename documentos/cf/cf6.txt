@@ -1,0 +1,12 @@
+45
+Admita a taxa de juro 7,5% de para 9 meses, com  6 capitalizações no período de taxa. Com base nesta taxa, determine a taxa de juro atual nominal  e a taxa efetiva considerando que vão ocorrer 8 capitalizações no ano
+
+Taxa anual Nominal
+iMensal = 0,075/9
+i anual nominal = 0,075/9x12
+i anumal nominal  = 10%
+
+Tana Anual efetiva
+i período capitalizado = 0,075/6  
+i anual efetiva = (1+ 0,075/6)8-1
+i anual efetivo = 10,45%

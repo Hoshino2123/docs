@@ -1,0 +1,40 @@
+Enterpise Resource Planning (erp) - software de gestão integrado - "Primavera"
+
+Inputs                                            Outputs
+Recursos Humanos - empresa  -   Produto Acabado(Indústria)
+Recursos técnicos - empresa   -   Mercadoria (comércio)
+Recursos financeiros - empresa - Serviço prestado (serviços)
+
+Fatores produtivos
+
+B2C - business to consumer
+B2B - business to business
+
+Fornecedores -  Matéria prima, Matéria subsídiária - transformação, produção, - B.A, Cliente
+
+Compras - Stocks                                                                                                           Vendas
+
+F- Merc. - Armázem de mercadoria, Merc- C
+
+
+Funções de gestão
+Planeamentoc - é o processo de determinar antecipadamente o que se deve ser feito, e como fazer
+
+Gantt
+
+~Previsão de stock- 6 dias ------
+Cálculo de vendas, 3dias, --- A
+Produção de redução , 7 dias--- A
+Cálculo de redução, 4 dias ---- C
+Elaboração do orçamento, 6 dias ---- B,D
+
+
+PERT
+
+Controlo
+Planeador ,Análise - realizado
+
+Direção,
+Motivação
+Liderrança
+Comunicação

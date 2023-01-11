@@ -1,0 +1,43 @@
+Fórmulas CF
+Capitalização 
+Valor acmulado : Regime simples
+M=C (1+in)
+Regime composto
+M=C (1+i)(n)
+
+Valor  do juro : Regime simples
+J=Cin 
+Regime composto
+J=C[(1+i)(n - 1]
+
+Taxa juro - Regime simples
+i=M-C/Cn 
+Regime composto
+i=(M/C)(1/n -1
+
+Prazo - Regime simples
+n=M-C/Ci 
+Regime composto
+n=LogM/C/Log(1+i)
+
+Atualização e desconto
+desconto por dentro - regime simples 
+E= Cin/1 +in
+por fora 
+D=C in
+regime composto
+E=C[1-1/(1+i)n]
+
+Valor atual por dentro - Regime simples 
+Va=C/(1 +in)
+Regime composto - Va=C/(1+i)n
+por fora
+regime simples - Va=C(1-in)
+composto- Va=C(1-i)n
+
+PLD- Produto Liquido de Desconto
+Vn- valor nominal
+CC- Comissão cobrança
+IS- Imposto selo
+Va- Valor atual
+i- Taxa de juro

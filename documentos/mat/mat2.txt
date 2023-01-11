@@ -1,0 +1,67 @@
+Yt = a+bx)t 
+(t=1,2,...,n
+
+a= 
+X e y são variáveis, a e b são parametros
+b)
+t=1 - y1=a+b X1
+t=2 - y2=a+b X2
+t=3 - y3=a+b X3
+t=4 - y4=a+b X4
+t=5 - y5=a+b X5
+t=6- y6=a+b X6
+t=7 - y7=a+b X7
+t=8 - y8=a+b X8
+t=9 - y9=a+b X9
+t=n - yn=a+b Xn
+c) 
+aplique o operador somatório aquela função
+[Yt=na+b[Xt
+
+3
+aplique o operador somatório a essa função, Yt=a+bXtw
+[Yt=na+b[Xt
+
+4-
+aplique o operador somatório á seguinte expressão
+Yt=2+5Xt- 3Zt
+
+
+ exercicio 1- 
+aplique o somatório a estra expressão
+Yi=4-5Xi+7 Zi
+
+Sigma 3 Yi = 12.5 sigma3 Xi i=1+7 sigma 3 Zi
+i=1
+
+4+4+4
+3x4=12
+
+X1xX2 x....Xm = PI Xt
+
+n! = PIk
+        k=1
+
+exercício 2- através da definição de fatorial, determine 3!
+        3
+3! = PI k
+       k=1
+
+3!=1x2x3
+
+
+Dada a potência A=B(n, a radiaciação consiste em determinar a basedesta potência
+
+Dada a potência A=B(n, a logaritimação consiste em determinar o expoente
+
+Operador log 
+
+ex3- considere a seguinte função
+Yt=10bxt t=1,2,3
+
+a) caraterize a funçáo e indentifique as grandezas
+As variáveis são x e y porque o x e o y têm o índice, e 10 é um parâmetro, função não linerao, exponencial
+b)logaritimize a função
+logYt=log10bxt
+
+logyt=bxt

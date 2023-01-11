@@ -1,0 +1,32 @@
+Ex 1- Yt=4+5Xt-2Wt+4Zt (t=1,2...10 
+
+10             10         10     10 
+
+ΣYt = 40 + 52Xt   -2 ΣWt  4 ΣZt 
+
+T=I             T=I     T=I       T=i 
+
+    n 
+
+2- πXi 
+
+I=1 
+
+Log(x.y = logx´logy 
+
+ 
+
+O operador logarítimo transforma em operador somatório 
+
+3-  
+
+a) linearize esta função 
+
+Yt=a+bxt 
+ 
+4-
+explique a definição de fatorial
+           N
+n! = Produtório K
+K=1
+ 

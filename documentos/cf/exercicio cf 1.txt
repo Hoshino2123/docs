@@ -1,0 +1,12 @@
+Calcular os juros de 300€, aplicados á taxa de 4% durante 24 meses
+
+R=300x00,4x2 = 324€, logo vai ser igual a 24€
+
+1330 - 1177€ = 153€
+
+
+1/3 + 1/4 + R=1
+R=5/12
+
+500=1/3cx4%x3) + 1/4cx2,5%x3) + 5/12cx3%x3)
+=1186€

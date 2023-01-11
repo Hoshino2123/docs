@@ -1,0 +1,18 @@
+Ex.
+Sejam A1 e  A2 dois acontecimentos tais como o acontecimento A1 realizza-se quando uma empresa  pertencce ao setor da metalomecanica.
+O A2 realiza-se quando uma empresa tem mais de 100 trabalhadores
+Descreva em função de A1 e a2
+A-"A empresa não pertence ao setor da metalomecanica"
+B-"A empresa pertece ao setor da metalomecanica ou tem mais de 100 trabalhadores
+C- A empresa não pertence ao setor da metalomecanica e não tem mais de 100  trabalhadores"
+D-"A empresa não pertence ao setor da metalomecanica, ou não tem mais de 100 trabalhadores"
+E- "A empresa não pertence ao setor da metalomecanica, e não tem mais de 100 trabalhadores"
+F- "A empresa tem mais de 100 trabalhadores, mas não pertence ao setor da metalomecânica"
+G- "Acontecimento que  se realiza quando ocorre 1 e 1 só dos seguintes acontecimentos: a empresa pertence ao setor da metalomecanica; a empresa tem mais de 100 trabalhadores
+
+A= _A1
+B= A1 U A2
+C= _A1 u ao contrário A2
+D= A1 U _A2
+E= A1 U ao contrario A2
+F= A2 U ao contrario A1
